@@ -1,12 +1,18 @@
-section
-{
+section {
   width: 90%;
   position: relative;
   left: 5%;
 
 }
 
-.py-3
-{
+.py-3 {
   text-align: center;
+}
+
+.h1 {
+  margin-top: 5%;
+}
+
+.list {
+  margin-top: 5px;
 }
