@@ -18,10 +18,21 @@ section {
   text-align: left;
   width: 20%;
 }
+
 @media (max-width: 800px) {
   .list {
     width: 100%;
     text-align: left;
     margin: 10px 10px 20px 10px;
   }
-}
+
+  .row {
+    position: relative;
+    bottom: 100px;
+  }
+
+  .bubu {
+    position: relative;
+    bottom: 100px;
+
+  }
